@@ -21,7 +21,9 @@ To make changes, edit template/content.md
 
 Slide 2
 
-
+Inline \\(c = \sqrt{a^2+b^2}\\)
+Block equation
+\\[c = \sqrt{a^2+b^2}\\]
 
 
 -vertical-
